@@ -1,0 +1,52 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"></stop>
+      <stop offset="50%" stop-color="#1f2937"></stop>
+      <stop offset="100%" stop-color="#047857"></stop>
+    </linearGradient>
+    <linearGradient id="accentGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"></stop>
+      <stop offset="100%" stop-color="#a855f7"></stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bgGradient)" rx="24"></rect>
+
+  <!-- Accent circles -->
+  <circle cx="1050" cy="60" r="80" fill="url(#accentGradient)" opacity="0.25"></circle>
+  <circle cx="100" cy="260" r="120" fill="url(#accentGradient)" opacity="0.18"></circle>
+
+  <!-- Main text -->
+  <text x="80" y="120" fill="#e5e7eb" font-size="46" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="700">
+    Rahul
+  </text>
+  <text x="80" y="170" fill="#9ca3af" font-size="24" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    Lead Engineer • Mobile &amp; Software Engineering
+  </text>
+
+  <!-- Secondary info -->
+  <text x="80" y="210" fill="#6b7280" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    Android • iOS • React Native • TypeScript • Kotlin • Java
+  </text>
+
+  <!-- Tagline -->
+  <text x="80" y="245" fill="#d1d5db" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    Architecting scalable mobile solutions &amp; leading teams to ship high-quality apps
+  </text>
+
+  <!-- Right-side block (UPDATED: Studio Graphene removed) -->
+  <rect x="760" y="90" width="340" height="150" rx="18" fill="#020617" opacity="0.75"></rect>
+  <text x="790" y="130" fill="#e5e7eb" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="600">
+    9.6+ years experience
+  </text>
+  <text x="790" y="160" fill="#9ca3af" font-size="14" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    • Mobile Engineering Expert
+  </text>
+  <text x="790" y="180" fill="#9ca3af" font-size="14" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    • Android, iOS, React Native, CI/CD
+  </text>
+  <text x="790" y="200" fill="#9ca3af" font-size="14" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    • System architecture, performance &amp; UX
+  </text>
+</svg>
