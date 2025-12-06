@@ -1,5 +1,3 @@
-![Rahul – Lead Engineer](./assets/banner.svg)
-
 <!-- Banner -->
 <p align="center">
   <img src="./assets/banner.svg" alt="Rahul – Lead Engineer Banner" />
@@ -13,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:rahul.kathpalia11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rahul.kathpalia11%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:rahul.official0293@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rahul.official0293%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/rahul-kathpalia-97681a136" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Kathpalia-blue?style=for-the-badge&logo=linkedin" />
@@ -28,7 +26,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🏗️ Lead Engineer with **9.6+ years** of experience in mobile & software engineering  
+- 🏗️ Lead Engineer with **9.8 years** of experience in mobile & software engineering  
 - 📱 Building scalable apps across **Android, iOS, React Native**  
 - 🚀 Focused on **architecture, performance, CI/CD, and clean code**  
 - 🤝 Enjoy mentoring teams and driving engineering best practices  
@@ -128,16 +126,3 @@
     height="180"
   />
 </p>
-
----
-
-## 🌗 Dark / Light Mode Assets
-
-GitHub respects system theme for some images. You can optionally provide theme-specific banners like this:
-
-```html
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner.svg" />
-  <img src="./assets/banner.svg" alt="Rahul – Lead Engineer Banner" />
-</picture>
